@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-04-19.md",
+                "file": "Dailies/2025-04-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-19"
+              "title": "2025-04-20"
             }
           }
         ]
@@ -168,6 +168,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,24 +182,28 @@
   },
   "active": "de62f77ef38fba81",
   "lastOpenFiles": [
-    "Pasted image 20250419001133.png",
-    "Dailies/2025-04-14.md",
+    "Pasted image 20250420000040.png",
+    "Spring2025/BEN205/Final.md",
+    "Dailies/2025-04-20.md",
     "Dailies/2025-04-19.md",
+    "Dailies/2025-04-14.md",
     "Dailies/2025-04-11.md",
     "Dailies/2025-04-10.md",
-    "Dailies/2024-11-26.md",
-    "Dailies/2024-11-27.md",
     "Dailies/2025-02-26.md",
-    "Dailies/2025-02-22.md",
     "Dailies/2025-02-18.md",
-    "Dailies/2025-02-14.md",
     "Dailies/2025-02-13.md",
     "Dailies/2024-11-29.md",
+    "Dailies/2024-11-26.md",
+    "Excalidraw/Untitled.md",
+    "Dailies/2024-10-17.md",
+    "Dailies/2024-11-27.md",
+    "Dailies/2025-02-14.md",
+    "Dailies/2025-02-22.md",
+    "Pasted image 20250419001133.png",
     "Spring2025/Deep Learning CSE/1. Intro to Deep Learning.md",
     "Spring2025/Deep Learning CSE/0. Deep Learning CSE.md",
     "CSE465_Online_class_1.pdf",
     "image.png",
-    "Dailies/Untitled.md",
     "Untitled",
     "Spring2025/EEE452/Lec-2.md",
     "Spring2025/BEN205",
@@ -209,9 +216,6 @@
     "Spring2025/Deep Learning CSE/7. Multi Layer Perceptron.md",
     "Spring2025/Deep Learning CSE/6. MLP Notation.md",
     "Spring2025/Deep Learning CSE/5. Problem with Perceptron.md",
-    "Spring2025/Deep Learning CSE/4. Perception Loss Function.md",
-    "Spring2025/Deep Learning CSE/Drawing 2025-02-17 22.30.35.excalidraw.md",
-    "Spring2025/Deep Learning CSE/3. Perceptron Trick.md",
     "brain.png",
     "Dailies",
     "image 1.png",
@@ -222,7 +226,6 @@
     "image 2 4.png",
     "image 1 4.png",
     "image 10.png",
-    "image 9.png",
     "Spring2025/Deep Learning CSE/MLP Notation",
     "Spring2025/Deep Learning CSE/Problem with Perceptron",
     "Untitled.canvas"
