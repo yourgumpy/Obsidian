@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-04-20.md",
+                "file": "Dailies/2025-04-21.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-20"
+              "title": "2025-04-21"
             }
           }
         ]
@@ -174,14 +174,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-importer:Open Importer": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "de62f77ef38fba81",
   "lastOpenFiles": [
+    "Dailies/2025-04-20.md",
+    "Dailies/2025-04-21.md",
     "Pasted image 20250420000040.png",
     "Spring2025/BEN205/Final.md",
-    "Dailies/2025-04-20.md",
     "Dailies/2025-04-19.md",
     "Dailies/2025-04-14.md",
     "Dailies/2025-04-11.md",
@@ -222,7 +227,6 @@
     "image 3 4.png",
     "image 2 4.png",
     "image 1 4.png",
-    "image 10.png",
     "Spring2025/Deep Learning CSE/MLP Notation",
     "Spring2025/Deep Learning CSE/Problem with Perceptron",
     "Untitled.canvas"
