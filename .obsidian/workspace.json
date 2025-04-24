@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-04-23.md",
+                "file": "Dailies/2025-04-24.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-23"
+              "title": "2025-04-24"
             }
           }
         ],
@@ -207,8 +207,9 @@
   },
   "active": "3658b6f0064d0a03",
   "lastOpenFiles": [
-    "Dailies/2025-04-21.md",
     "Dailies/2025-04-23.md",
+    "Dailies/2025-04-24.md",
+    "Dailies/2025-04-21.md",
     "found .cmd thing.md",
     "about 465 project.md",
     "Untitled",
@@ -241,7 +242,6 @@
     "Untitled 1",
     "Spring2025/Deep Learning CSE/2. Perceptron.md",
     "FineTune",
-    "Dailies/2025-02-19.md",
     "brain.png",
     "Dailies",
     "image 1.png",
