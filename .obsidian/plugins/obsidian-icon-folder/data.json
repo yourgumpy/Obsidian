@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFileClock",
       "LiArrowBigRightDash"
     ],
     "recentlyUsedIconsSize": 10,
@@ -30,5 +31,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Spring2025": "LiArrowBigRightDash"
+  "Spring2025": "LiArrowBigRightDash",
+  "Dailies": "LiFileClock"
 }

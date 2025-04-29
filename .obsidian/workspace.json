@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-04-25.md",
+                "file": "Dailies/2025-04-29.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-04-25"
+              "title": "2025-04-29"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 200
   },
   "right": {
     "id": "a22d31b532d9a4d3",
@@ -183,9 +183,11 @@
   "active": "7437885bbb00a477",
   "lastOpenFiles": [
     "Dailies/2025-04-25.md",
-    "Dailies/2025-04-24.md",
-    "Dailies/2025-04-23.md",
+    "Dailies/2025-04-29.md",
     "Dailies/2025-04-21.md",
+    "Dailies/2025-04-23.md",
+    "Dailies/2025-04-24.md",
+    "Excalidraw/Drawing 2025-04-25 16.47.21.excalidraw.md",
     "found .cmd thing.md",
     "about 465 project.md",
     "Untitled",
@@ -211,9 +213,7 @@
     "Spring2025/Deep Learning CSE/0. Deep Learning CSE.md",
     "CSE465_Online_class_1.pdf",
     "image.png",
-    "Spring2025/EEE452/Lec-2.md",
     "Spring2025/BEN205",
-    "Spring2025/Untitled.md",
     "Spring2025/EEE452",
     "Untitled 1",
     "FineTune",
