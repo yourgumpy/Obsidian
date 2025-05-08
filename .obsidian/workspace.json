@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-05-06.md",
+                "file": "Dailies/2025-05-08.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-06"
+              "title": "2025-05-08"
             }
           }
         ]
@@ -182,9 +182,13 @@
   },
   "active": "7437885bbb00a477",
   "lastOpenFiles": [
-    "Dailies/2025-04-29.md",
+    "auto_commit.sh",
+    "auto_commit.cmd",
+    "gitPush.py",
     "Dailies/2025-05-06.md",
+    "Dailies/2025-05-08.md",
     "Dailies/2025-05-05.md",
+    "Dailies/2025-04-29.md",
     "Dailies/2025-05-04.md",
     "Dailies/2025-04-30.md",
     "Dailies/2025-04-25.md",
@@ -207,8 +211,6 @@
     "Dailies/2025-02-13.md",
     "Dailies/2024-11-29.md",
     "Dailies/2024-11-27.md",
-    "Dailies/2024-11-26.md",
-    "Dailies/2024-10-17.md",
     "Pasted image 20250420000040.png",
     "Pasted image 20250419001133.png",
     "CSE465_Online_class_1.pdf",
@@ -226,8 +228,6 @@
     "image 3 4.png",
     "image 2 4.png",
     "image 1 4.png",
-    "Spring2025/Deep Learning CSE/MLP Notation",
-    "Spring2025/Deep Learning CSE/Problem with Perceptron",
     "Untitled.canvas"
   ]
 }
