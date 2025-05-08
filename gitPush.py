@@ -3,7 +3,7 @@ import datetime
 
 def git_commit_push():
     # Get current date as commit message
-    commit_message = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    commit_message = datetime.datetime.now().strftime('%d-%b-%Y %H:%M')
 
     # Run git commands
     try:
