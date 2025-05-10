@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-05-09.md",
+                "file": "Dailies/2025-05-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-09"
+              "title": "2025-05-10"
+            }
+          },
+          {
+            "id": "d73c4e3df12893c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About Advising.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "About Advising"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a22d31b532d9a4d3",
@@ -158,8 +184,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ba7b4b00747b8966",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,43 +214,44 @@
       "markdown-importer:Open format converter": false,
       "obsidian-importer:Open Importer": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12b982877b6e736e",
+  "active": "d73c4e3df12893c5",
   "lastOpenFiles": [
-    "Dailies/2025-05-08.md",
+    "Dailies/2025-05-10.md",
+    "About Advising.md",
+    "Untitled",
     "Dailies/2025-05-09.md",
-    "Excalidraw/Drawing 2025-05-08 16.40.53.excalidraw.md",
-    "Untitled.canvas",
-    "Dailies/2025-04-21.md",
-    "Spring2025/Deep Learning CSE/7. Multi Layer Perceptron.md",
-    "Spring2025/Deep Learning CSE/6. MLP Notation.md",
-    "Spring2025/Deep Learning CSE/5. Problem with Perceptron.md",
-    "Spring2025/Deep Learning CSE/3. Perceptron Trick.md",
-    "Spring2025/Deep Learning CSE/1. Intro to Deep Learning.md",
-    "Spring2025/Deep Learning CSE/0. Deep Learning CSE.md",
-    "Spring2025/EEE452/Lec-2.md",
-    "Spring2025/BEN205/Final.md",
-    "brain.png",
-    "about 465 project.md",
-    "auto_commit.sh",
-    "auto_commit.cmd",
-    "gitPush.py",
+    "Dailies/2025-05-08.md",
     "Dailies/2025-05-06.md",
     "Dailies/2025-05-05.md",
     "Dailies/2025-04-29.md",
-    "Dailies/2025-05-04.md",
-    "Dailies/2025-04-30.md",
     "Dailies/2025-04-25.md",
-    "Dailies/2025-04-23.md",
     "Dailies/2025-04-24.md",
-    "Excalidraw/Drawing 2025-04-25 16.47.21.excalidraw.md",
-    "found .cmd thing.md",
-    "Untitled",
+    "Dailies/2025-04-23.md",
+    "Dailies/2025-04-21.md",
     "Dailies/2025-04-20.md",
     "Dailies/2025-04-19.md",
     "Dailies/2025-04-14.md",
+    "Dailies/2025-04-11.md",
+    "Dailies/2025-04-10.md",
+    "Dailies/2025-02-26.md",
+    "Dailies/2025-02-22.md",
+    "Dailies/2025-02-18.md",
+    "Dailies/2025-02-14.md",
+    "Dailies/2025-02-13.md",
+    "Dailies/2024-11-29.md",
+    "Dailies/2024-11-27.md",
+    "Dailies/2024-11-26.md",
+    "Dailies/2024-10-17.md",
+    "Excalidraw/Drawing 2025-05-08 16.40.53.excalidraw.md",
+    "Untitled.canvas",
+    "brain.png",
+    "auto_commit.sh",
+    "auto_commit.cmd",
+    "gitPush.py",
     "Pasted image 20250420000040.png",
     "Pasted image 20250419001133.png",
     "CSE465_Online_class_1.pdf",
