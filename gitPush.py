@@ -9,7 +9,7 @@ def git_commit_push():
     try:
         subprocess.run(["git", "add", "."], check=True)  # git add .
         subprocess.run(["git", "commit", "-m", commit_message], check=True)  # git commit
-        subprocess.run(["git", "push", "origin", "master"], check=True)  # git push
+        subprocess.run(["git", "push","-u", "origin", "master"], check=True)  # git push
         print(f"Successfully committed and pushed with message: {commit_message}")
     except subprocess.CalledProcessError as e:
         print(f"Error: {e}")
