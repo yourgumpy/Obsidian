@@ -142,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dailies/2025-05-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-05-12"
             }
           },
           {
@@ -161,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
