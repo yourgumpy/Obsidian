@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-05-20.md",
+                "file": "Dailies/2025-05-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-20"
+              "title": "2025-05-26"
             }
           }
         ]
@@ -195,8 +195,12 @@
   },
   "active": "58ca811e6b6a3879",
   "lastOpenFiles": [
-    "Dailies/2025-05-17.md",
     "Dailies/2025-05-20.md",
+    "Dailies/2025-05-26.md",
+    "দেখি কি লেখা যায়.md",
+    "কি জানি",
+    "Dailies/2025-05-23.md",
+    "Dailies/2025-05-17.md",
     "Dailies/2025-05-18.md",
     "Spring2025/Deep Learning CSE/4. Perception Loss Function.md",
     "Dailies/2025-05-15.md",
@@ -218,10 +222,6 @@
     "Dailies/2025-04-23.md",
     "Dailies/2025-04-24.md",
     "Dailies/2025-04-25.md",
-    "Dailies/2025-04-29.md",
-    "Dailies/2025-05-05.md",
-    "Dailies/2025-05-06.md",
-    "Untitled",
     "Untitled.canvas",
     "brain.png",
     "auto_commit.sh",
