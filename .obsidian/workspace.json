@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-06-10.md",
+                "file": "Dailies/2025-06-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-10"
+              "title": "2025-06-15"
             }
           }
         ]
@@ -195,8 +195,9 @@
   },
   "active": "58ca811e6b6a3879",
   "lastOpenFiles": [
-    "Dailies/2025-06-09.md",
     "Dailies/2025-06-10.md",
+    "Dailies/2025-06-15.md",
+    "Dailies/2025-06-09.md",
     "Pasted image 20250609064059.png",
     "Dailies/2025-06-07.md",
     "Dailies/2025-06-02.md",
@@ -222,7 +223,6 @@
     "Dailies/2025-02-22.md",
     "Dailies/2025-02-26.md",
     "Dailies/2025-04-10.md",
-    "Dailies/2025-04-11.md",
     "Untitled.canvas",
     "brain.png",
     "auto_commit.sh",
