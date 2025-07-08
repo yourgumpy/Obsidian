@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58ca811e6b6a3879",
+            "id": "eb2ae88063e41132",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dailies/2025-07-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-08"
             }
           }
         ]
@@ -152,8 +166,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -179,8 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "604fad2dfc3e0073",
+  "active": "eb2ae88063e41132",
   "lastOpenFiles": [
+    "Dailies/2025-07-08.md",
+    "Dailies/2025-06-24.md",
     "Dailies/2025-06-21.md",
     "Dailies/2025-06-23.md",
     "Dailies/2025-06-15.md",
@@ -207,8 +223,6 @@
     "Dailies/2024-11-29.md",
     "Dailies/2025-02-13.md",
     "Dailies/2025-02-14.md",
-    "Dailies/2025-02-18.md",
-    "Dailies/2025-02-22.md",
     "Untitled.canvas",
     "brain.png",
     "auto_commit.sh",
