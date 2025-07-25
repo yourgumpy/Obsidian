@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dailies/2025-07-13.md",
+                "file": "Dailies/2025-07-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-13"
+              "title": "2025-07-19"
             }
           }
         ]
@@ -193,10 +193,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb2ae88063e41132",
+  "active": "604fad2dfc3e0073",
   "lastOpenFiles": [
-    "Dailies/2025-07-09.md",
     "Dailies/2025-07-13.md",
+    "Dailies/2025-07-19.md",
+    "Dailies/2025-07-18.md",
+    "দেখি কি লেখা যায়.md",
+    "Untitled 1.canvas",
+    "Spring2025/Deep Learning CSE/6. MLP Notation.md",
+    "Spring2025/Deep Learning CSE/5. Problem with Perceptron.md",
+    "Spring2025/Deep Learning CSE/7. Multi Layer Perceptron.md",
+    "Spring2025/Deep Learning CSE/3. Perceptron Trick.md",
+    "Spring2025/Deep Learning CSE/1. Intro to Deep Learning.md",
+    "Spring2025/Deep Learning CSE/0. Deep Learning CSE.md",
+    "Dailies/2025-07-09.md",
     "Dailies/2025-07-13",
     "Dailies/2025-04-21.md",
     "Dailies/2025-07-08.md",
@@ -214,16 +224,7 @@
     "Dailies/2025-06-01.md",
     "Dailies/2025-06-04.md",
     "Dailies/2025-05-20.md",
-    "দেখি কি লেখা যায়.md",
     "কি জানি",
-    "Dailies/2025-05-23.md",
-    "Dailies/2025-05-17.md",
-    "Dailies/2025-05-18.md",
-    "Spring2025/Deep Learning CSE/4. Perception Loss Function.md",
-    "Dailies/2025-05-15.md",
-    "Dailies/2024-10-17.md",
-    "Dailies/2024-11-26.md",
-    "Dailies/2024-11-27.md",
     "Untitled.canvas",
     "brain.png",
     "auto_commit.sh",

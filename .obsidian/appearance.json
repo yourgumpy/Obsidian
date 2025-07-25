@@ -1,10 +1,10 @@
 {
   "accentColor": "#f55c5c",
   "cssTheme": "Everforest",
-  "interfaceFontFamily": "Li Alinur Nobin Unicode",
+  "interfaceFontFamily": "Maple Mono NF CN,Li Alinur Nobin Unicode",
   "baseFontSize": 25,
   "monospaceFontFamily": "Li Alinur Nobin Unicode,Source Code Pro",
-  "textFontFamily": "Li Alinur Nobin Unicode",
+  "textFontFamily": "Li Alinur Nobin Unicode,Maple Mono NF CN",
   "showRibbon": true,
   "showViewHeader": true,
   "theme": "obsidian"
